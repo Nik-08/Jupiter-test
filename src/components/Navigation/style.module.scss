@@ -1,0 +1,35 @@
+.navigation {
+  display: flex;
+  list-style: none;
+  width: 100%;
+  justify-content: center;
+  padding: 100px 0 90px;
+
+  @media (max-width: 1039px) {
+    flex-wrap: wrap;
+    justify-content: start;
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 50px 0 45px;
+  }
+}
+
+.navigation__item {
+  font-size: 20px;
+  padding: 0 40px;
+  @media (max-width: 1039px) {
+    width: 50%;
+    text-align: center;
+    padding: 10px 0px;
+  }
+}
+
+.navigation__item span {
+  cursor: pointer;
+  color: #7f6454;
+}
+
+.navigation__item.active span {
+  color: #63d063;
+  font-weight: bold;
+}

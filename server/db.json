@@ -1,0 +1,112 @@
+{
+  "cards": [
+    {
+      "id": 0,
+      "imageUrl": "https://i.ibb.co/vXyB34n/card-image1.png",
+      "name": "SOFA",
+      "category": "Design"
+    },
+    {
+      "id": 1,
+      "imageUrl": "https://i.ibb.co/BgZ8b33/card-image2.png",
+      "name": "KeyBoard",
+      "category": "Branding"
+    },
+    {
+      "id": 2,
+      "imageUrl": "https://i.ibb.co/wLCWnJH/card-image3.png",
+      "name": "Work Media",
+      "category": "Illustration"
+    },
+    {
+      "id": 3,
+      "imageUrl": "https://i.ibb.co/FWhXyCQ/card-image4.png",
+      "name": "DDDone",
+      "category": "Motion"
+    },
+    {
+      "id": 4,
+      "imageUrl": "https://i.ibb.co/hsBvHw7/card-image5.png",
+      "name": "Abstract",
+      "category": "Design"
+    },
+    {
+      "id": 5,
+      "imageUrl": "https://i.ibb.co/gyqhLmG/card-image6.png",
+      "name": "HandP",
+      "category": "Branding"
+    },
+    {
+      "id": 6,
+      "imageUrl": "https://i.ibb.co/JzdLBCB/card-image7.png",
+      "name": "Architect",
+      "category": "Motion"
+    },
+    {
+      "id": 7,
+      "imageUrl": "https://i.ibb.co/sbQgJnR/card-image8.png",
+      "name": "CalC",
+      "category": "Design"
+    },
+    {
+      "id": 8,
+      "imageUrl": "https://i.ibb.co/ZN6H4cD/card-image9.png",
+      "name": "Sport",
+      "category": "Branding"
+    },
+    {
+      "id": 9,
+      "imageUrl": "https://i.ibb.co/vXyB34n/card-image1.png",
+      "name": "SOFA-1",
+      "category": "Design"
+    },
+    {
+      "id": 10,
+      "imageUrl": "https://i.ibb.co/BgZ8b33/card-image2.png",
+      "name": "KeyBoard-1",
+      "category": "Branding"
+    },
+    {
+      "id": 11,
+      "imageUrl": "https://i.ibb.co/wLCWnJH/card-image3.png",
+      "name": "Work Media-1",
+      "category": "Illustration"
+    },
+    {
+      "id": 12,
+      "imageUrl": "https://i.ibb.co/FWhXyCQ/card-image4.png",
+      "name": "DDDone-1",
+      "category": "Motion"
+    },
+    {
+      "id": 13,
+      "imageUrl": "https://i.ibb.co/hsBvHw7/card-image5.png",
+      "name": "Abstract-1",
+      "category": "Design"
+    },
+    {
+      "id": 14,
+      "imageUrl": "https://i.ibb.co/gyqhLmG/card-image6.png",
+      "name": "HandP-1",
+      "category": "Branding"
+    },
+    {
+      "id": 15,
+      "imageUrl": "https://i.ibb.co/JzdLBCB/card-image7.png",
+      "name": "Architect-1",
+      "category": "Motion"
+    },
+    {
+      "id": 16,
+      "imageUrl": "https://i.ibb.co/sbQgJnR/card-image8.png",
+      "name": "CalC-1",
+      "category": "Design"
+    },
+    {
+      "id": 17,
+      "imageUrl": "https://i.ibb.co/ZN6H4cD/card-image9.png",
+      "name": "Sport-1",
+      "category": "Branding"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+.footer__button {
+  background: #fff;
+  text-transform: uppercase;
+  border-radius: 5px;
+  font-size: 16px;
+  border: none;
+  box-shadow: 1px 5px 3px rgb(0, 0, 0, 0.1);
+  color: #7f6454;
+  padding: 15px 25px;
+  cursor: pointer;
+  max-width: 200px;
+  width: 100%;
+  display: block;
+  margin: 0 auto;
+  transition: 0.3s;
+
+  &:hover {
+    transform: scale(1.05);
+    transition: 0.3s;
+  }
+}

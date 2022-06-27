@@ -1,0 +1,18 @@
+.cards__wrapper {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(330px, 1fr));
+  gap: 20px;
+  padding-bottom: 160px;
+
+  @media (max-width: 1039px) {
+    grid-template-columns: 1fr;
+    padding-bottom: 80px;
+  }
+}
+
+.cards__footer_text {
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+  color: #7f6454;
+}
